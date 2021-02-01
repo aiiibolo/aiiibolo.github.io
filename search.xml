@@ -16,7 +16,7 @@
   </entry>
   <entry>
     <title>基础笔记</title>
-    <url>/2021/02/01/%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/</url>
+    <url>/2021/01/27/%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="基础01：注释"><a href="#基础01：注释" class="headerlink" title="基础01：注释"></a>基础01：注释</h1><p><strong>书写注释是一个非常好的习惯</strong><br><strong>平时写代码一定要注意规范</strong></p>
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//我是单行注释  </span></span><br><span class="line"></span><br><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">我是多行注释  </span></span><br><span class="line"><span class="comment">*/</span>  </span><br><span class="line">  </span><br><span class="line"><span class="comment">/** 我是文档注释  </span></span><br><span class="line"><span class="comment"> * <span class="doctag">@author</span> Aiiibolo</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"> </span><br><span class="line"> <span class="comment">// 有趣的代码注释（网上找）</span></span><br></pre></td></tr></table></figure>
 <h1 id="基础02：关键字和标识符"><a href="#基础02：关键字和标识符" class="headerlink" title="基础02：关键字和标识符"></a>基础02：关键字和标识符</h1><h2 id="关键字"><a href="#关键字" class="headerlink" title="关键字"></a>关键字</h2><p>固定的关键字</p>
